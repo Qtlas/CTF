@@ -260,8 +260,9 @@ Since the session file now contains `"role":"admin"`, the check passes and we ge
 
 ---
 
-## Exploit Script
-```
+## Exploit script
+
+```python
 import zipfile
 import os
 import io
