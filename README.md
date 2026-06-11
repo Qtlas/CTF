@@ -11,10 +11,10 @@ Each challenge directory includes a `README.md` describing the analysis and expl
 ## Competitions & Challenges
 
 ### FCSC 2026
-- [Shellfish Say](FCSC026/ShellFishSay)
-- [Shrimp Saver](FCSC026/ShrimpSaver)
-- [Shrimp Saver Revenge](FCSC026/ShrimpSaverRevenge)
-- [Deep Blue](FCSC026/DeepBlue)
+- [`Shellfish Say`](FCSC2026/ShellFishSay)
+- [`Shrimp Saver`](FCSC2026/ShrimpSaver)
+- [`Shrimp Saver Revenge`](FCSC2026/ShrimpSaverRevenge)
+- [`Deep Blue`](FCSC2026/DeepBlue)
 
 
 ### UoCTF 2026
